@@ -71,7 +71,8 @@ export default function MermaidGraph({ graph }: MermaidGraphProps) {
 
         const uniqueId = `mermaid-${Date.now()}-${Math.random().toString(36).slice(2)}`;
 
-        const sanitizedGraph = graph.trim().replace(/```mermaid\n?/g, "").replace(/```\n?/g, "");
+        const sanitizedGraph = graph.trim().replace(/```mermaid[\s\S]*?\n?/, "").replace(/```\s*$/, "");
+        console.log("Mermaid graph string:",JSON.stringify(sanitizedGraph));
 
         const { svg } = await mermaid.render(uniqueId, sanitizedGraph);
 
