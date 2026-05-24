@@ -1,8 +1,9 @@
-# 🧠 DocuAgent - The Architectural Intelligence Layer for Modern Codebases
+#  DocuAgent - The Architectural Intelligence Layer for Modern Codebases
 
 <div align="center">
 
-<img src="./public/banner.png" alt="DocuAgent Banner" width="100%" />
+<img width="302" height="291" alt="WhatsApp Image 2026-05-24 at 19 44 55" src="https://github.com/user-attachments/assets/e5b7c9f1-69db-484d-9a87-8af16643c18a" />
+
 
 <br/>
 <br/>
@@ -340,35 +341,11 @@ Generate:
 ---
 
 # 🖥️ UI Showcase
-
-## Suggested Repository Assets
-
-```bash
-/public
-├── banner.png
-├── dashboard-preview.png
-├── architecture-view.png
-└── live-analysis.gif
-```
-
----
-
-## Recommended Preview Sections
-
-### 📸 Dashboard Preview
-Show your Bento-grid developer workspace.
+<img width="1781" height="789" alt="Screenshot 2026-05-24 181700" src="https://github.com/user-attachments/assets/5c8dab45-13fd-488e-bf2f-53c61d2ea48e" />
 
 ### 🎥 Live Workflow GIF
-Demonstrate:
-1. Repository input
-2. Analysis trigger
-3. Diagram generation
-4. Documentation synthesis
 
-### 🗺️ Architecture Canvas
-Export your Mermaid graph as a high-quality PNG.
-
----
+https://github.com/user-attachments/assets/1e4a0e1c-5fe9-49a1-94ed-62f5f184fc5a
 
 # ⚙️ Installation
 
@@ -430,7 +407,7 @@ Runs the backend API at:
 ```bash
 http://localhost:8000
 ```
-# 🔥 Example Use Cases
+# Example Use Cases
 
 ## 🏢 Enterprise Engineering Teams
 - Architecture governance
@@ -586,6 +563,5 @@ DocuAgent is building toward a future where:
 
 <br/>
 
-Made with ❤️ for developers building the future.
 
 </div>
