@@ -38,10 +38,7 @@ DocuAgent is an AI-powered architecture orchestration platform that converts com
 
 # Live Demo
 
-Frontend:
-https://docuagent-wine.vercel.app/
-
-Backend API:
+https://docuagent-wine.vercel.app
 
 ---
 
